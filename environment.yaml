@@ -1,0 +1,6 @@
+name: jupyterlab_practice_environment
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+prefix: C:\Users\Gab\miniconda3\envs\jupyterlab_practice_environment
